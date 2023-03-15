@@ -1,4 +1,4 @@
 <?php
 
-echo "ini latihan";
+echo "ini latihan Featur B";
 ?>
